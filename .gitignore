@@ -1,0 +1,43 @@
+# Binarios y ejecutables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.elf
+
+# Archivos de compilación
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Directorios de build
+build/
+Build/
+out/
+bin/
+Debug/
+Release/
+cmake-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Archivos de IDEs
+.vscode/
+.idea/
+*.vcxproj*
+*.sln
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Otros
+*.log
+*.tmp

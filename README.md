@@ -38,5 +38,5 @@ Este modelo es la base conceptual utilizada para representar, dentro del hardwar
 ## 📂 Contenido del repositorio
 
 - `main.cpp` — código fuente del modelo con struct y puntero.
-- `Cuestionario_Tecnico_Control_1.docx` — informe técnico con las respuestas al cuestionario.
-- `Manual_del_Programador.md` — documentación técnica del código para desarrolladores.
+- `EEST1_LPR2026_ACT05_G03_Informe_v1.0.0.pdf` — informe técnico con las respuestas al cuestionario.
+- `manual_programador_v1.0.0.md` — documentación técnica del código para desarrolladores.
